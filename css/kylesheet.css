@@ -20,6 +20,11 @@ h1 {
 .red {
 	color: #f1404b;
 }
+.footer {
+	background-color: #252c41;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
 
 /* Card */
 .card-image {
