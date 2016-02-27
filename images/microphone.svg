@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="217px" height="155px" viewBox="0 0 217 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>microphone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="microphone" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M147.8853,67.3071 C140.7883,60.2101 136.9863,51.0681 136.4683,41.7771 L71.0413,125.4801 L90.1463,144.5861 L174.3573,78.7611 C164.7443,78.4561 155.2223,74.6441 147.8853,67.3071 L147.8853,67.3071 Z" id="Stroke-1" stroke="#252C41" sketch:type="MSShapeGroup"></path>
+            <path d="M148.3337,11.8432 C163.6457,-3.4688 188.4717,-3.4688 203.7837,11.8432 C219.0957,27.1552 219.0957,51.9812 203.7837,67.2932 C188.4717,82.6052 163.6457,82.6052 148.3337,67.2932 C133.0217,51.9812 133.0217,27.1552 148.3337,11.8432 L148.3337,11.8432 Z" id="Stroke-3" stroke="#252C41" sketch:type="MSShapeGroup"></path>
+            <path d="M148.3337,11.8432 C146.2857,13.8912 144.5197,16.1142 143.0197,18.4582 L197.1687,72.6072 C199.5117,71.1062 201.7347,69.3412 203.7837,67.2932 C205.8317,65.2442 207.5967,63.0212 209.0977,60.6782 L154.9487,6.5292 C152.6047,8.0292 150.3817,9.7952 148.3337,11.8432 L148.3337,11.8432 Z" id="Stroke-5" stroke="#252C41" sketch:type="MSShapeGroup"></path>
+            <path d="M73.9864,141.64 C77.4964,145.15 83.1874,145.15 86.6974,141.64 L73.9864,128.929 C70.4764,132.439 70.4764,138.13 73.9864,141.64 L73.9864,141.64 Z" id="Stroke-7" stroke="#252C41" sketch:type="MSShapeGroup"></path>
+            <path d="M73.9864,141.64 L69.5704,146.056 C59.6454,155.981 43.5524,155.981 33.6264,146.056 L7.9444,120.373 C-1.9816,110.448 -1.9816,94.355 7.9444,84.429 L86.7074,5.666" id="Stroke-9" stroke="#F1404B" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
