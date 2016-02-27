@@ -13,3 +13,6 @@ h1 {
 .img-responsive {
 	max-width: 100%;
 }
+#vinyl {
+	z-index: -10;
+}
