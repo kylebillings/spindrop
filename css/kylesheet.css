@@ -3,6 +3,7 @@ html, body {
 }
 #hero {
 	height: 90%;
+  max-height: 705px;
 }
 h1 {
 	text-transform: uppercase;
