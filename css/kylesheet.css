@@ -1,6 +1,9 @@
 html, body {
 	height: 100%;
 }
+.cssco.cssco--x1 
+  -webkit-filter: grayscale(10%) contrast(80%);
+  filter: grayscale(10%) contrast(80%);
 #hero {
 	height: 90%;
   max-height: 705px;
