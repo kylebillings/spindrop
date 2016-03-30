@@ -294,3 +294,14 @@
 	line-height:  1 !important;
     
 }
+@media (max-width: 900px) {
+  .column.player-column,
+  .columns.player-column {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    margin: 0 auto; }
+  .jAudio--player {
+  	margin-bottom: 20px;
+  }
+}
