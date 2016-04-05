@@ -1,3 +1,4 @@
+
     .jAudio--player *  {
     box-sizing: border-box;
 }
@@ -304,4 +305,9 @@
   .jAudio--player {
   	margin-bottom: 20px;
   }
+}
+.jAudio--player .smaller {
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    line-height: 16px !important;
 }

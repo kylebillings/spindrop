@@ -172,23 +172,23 @@
 
 $("#player").jAudio({
 		playlist: [{
-				file: "../audio/badone.mp3",
-				thumb: "../images/is.jpg",
-				trackName: "Crush",
-				trackArtist: "Irish Steph",
-				trackAlbum: "Crush EP",
+				file: "../audio/forgetme.mp3",
+				thumb: "../images/drewofthedrew.jpg",
+				trackName: "Forget Me",
+				trackArtist: "Drew Of The Drew",
+				trackAlbum: "What Does It Do",
 		}, {
-				file: "../audio/dowe.mp3",
-				thumb: "../images/is.jpg",
-				trackName: "Irish",
-				trackArtist: "Irish Steph",
-				trackAlbum: "Crush EP",
+				file: "../audio/staticheart.mp3",
+				thumb: "../images/drewofthedrew.jpg",
+				trackName: "Static Heart",
+				trackArtist: "Drew Of The Drew",
+				trackAlbum: "What Does It Do",
 		}, {
 				file: "../audio/drowninthiswreck.mp3",
-				thumb: "../images/is.jpg",
-				trackName: "Steph",
-				trackArtist: "Alan Walker",
-				trackAlbum: "Crush EP",
+				thumb: "../images/drewofthedrew.jpg",
+				trackName: "Drown In This Wreck",
+				trackArtist: "Drew Of The Drew",
+				trackAlbum: "What Does It Do",
 		}]
 });
 $("#player-2").jAudio({
