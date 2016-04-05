@@ -172,19 +172,19 @@
 
 $("#player").jAudio({
 		playlist: [{
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/01.mp3",
+				file: "../audio/badone.mp3",
 				thumb: "../images/is.jpg",
 				trackName: "Crush",
 				trackArtist: "Irish Steph",
 				trackAlbum: "Crush EP",
 		}, {
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/02.mp3",
+				file: "../audio/dowe.mp3",
 				thumb: "../images/is.jpg",
 				trackName: "Irish",
 				trackArtist: "Irish Steph",
 				trackAlbum: "Crush EP",
 		}, {
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/03.mp3",
+				file: "../audio/drowninthiswreck.mp3",
 				thumb: "../images/is.jpg",
 				trackName: "Steph",
 				trackArtist: "Alan Walker",
@@ -193,19 +193,19 @@ $("#player").jAudio({
 });
 $("#player-2").jAudio({
 		playlist: [{
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/01.mp3",
+				file: "../audio/forgetme.mp3",
 				thumb: "../images/ar.jpg",
 				trackName: "Hungry",
 				trackArtist: "American Royalty",
 				trackAlbum: "Prismatic EP",
 		}, {
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/02.mp3",
+				file: "../audio/mistakes.mp3",
 				thumb: "../images/ar.jpg",
 				trackName: "Red",
 				trackArtist: "American Royalty",
 				trackAlbum: "Prismatic EP",
 		}, {
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/03.mp3",
+				file: "../audio/riverbed",
 				thumb: "../images/ar.jpg",
 				trackName: "Lifeline",
 				trackArtist: "American Royalty",
@@ -214,19 +214,19 @@ $("#player-2").jAudio({
 });
 $("#player-3").jAudio({
 		playlist: [{
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/01.mp3",
+				file: "../audio/staticheart",
 				thumb: "../images/geo.jpg",
 				trackName: "Family",
 				trackArtist: "Geographer",
 				trackAlbum: "Animal Shapes",
 		}, {
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/02.mp3",
+				file: "../audio/taillights.mp3",
 				thumb: "../images/geo.jpg",
 				trackName: "Looping",
 				trackArtist: "Geographer",
 				trackAlbum: "Animal Shapes",
 		}, {
-				file: "http://michaelmammoliti.com/_projects/audioJS/songs/03.mp3",
+				file: "../audio/theline.mp3",
 				thumb: "../images/geo.jpg",
 				trackName: "Sonic",
 				trackArtist: "Geographer",
