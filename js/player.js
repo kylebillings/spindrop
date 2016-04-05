@@ -205,7 +205,7 @@ $("#player-2").jAudio({
 				trackArtist: "American Royalty",
 				trackAlbum: "Prismatic EP",
 		}, {
-				file: "../audio/riverbed",
+				file: "../audio/riverbed.mp3",
 				thumb: "../images/ar.jpg",
 				trackName: "Lifeline",
 				trackArtist: "American Royalty",
@@ -214,7 +214,7 @@ $("#player-2").jAudio({
 });
 $("#player-3").jAudio({
 		playlist: [{
-				file: "../audio/staticheart",
+				file: "../audio/staticheart.mp3",
 				thumb: "../images/geo.jpg",
 				trackName: "Family",
 				trackArtist: "Geographer",
